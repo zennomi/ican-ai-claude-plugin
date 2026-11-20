@@ -1,0 +1,14 @@
+{
+  "name": "ican-ai-marketplace",
+  "description": "Official ICAN AI Claude Code plugin marketplace",
+  "owner": {
+    "name": "ICAN AI"
+  },
+  "plugins": [
+    {
+      "name": "ican-ai",
+      "source": "./",
+      "description": "MCP tools và workflow skills quản lý giáo trình, mô phỏng và đề thi cho ICAN AI"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ican-ai",
+  "displayName": "ICAN AI",
+  "version": "1.0.0",
+  "description": "MCP tools và workflow skills quản lý giáo trình, mô phỏng và đề thi cho ICAN AI",
+  "author": {
+    "name": "ICAN AI"
+  },
+  "homepage": "https://github.com/zennomi/ican-ai-claude-plugin",
+  "repository": "https://github.com/zennomi/ican-ai-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ican-ai",
+    "education",
+    "mcp",
+    "curriculum",
+    "exams"
+  ],
+  "mcpServers": "./.mcp.json"
+}
